@@ -1,0 +1,6 @@
+{
+  "name": "驭风智眸风电网联诊断云平台",
+  "description": "基于RobotGPT与多模态融合感知的风电设备自适应爬壁运维、三维精准定位、全生命周期隐蔽病害诊断与数字孪生可视化控制平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
